@@ -25,8 +25,11 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
-        "今天是你的生日": "./imgs/534aa24a0c84cc9a3b74b153852d4192.jpg"
+        "心爱的小可爱": "./imgs/moon5.jpg",
+        "今天是你的生日": "./imgs/moon4.jpg"",
+        "第四年了哦": "./imgs/moon3.jpg",
+        "要把我家可爱猪猪喂饱饱": "./imgs/moon2.jpg",
+        "然后抱走": "./imgs/moon1.jpg"
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
