@@ -26,7 +26,7 @@ var config = {
      */
     imgs: {
         "心爱的小可爱": "./imgs/moon5.jpg",
-        "今天是你的生日": "./imgs/moon4.jpg"",
+        "今天是你的生日": "./imgs/moon4.jpg",
         "第四年了哦": "./imgs/moon3.jpg",
         "要把我家可爱猪猪喂饱饱": "./imgs/moon2.jpg",
         "然后抱走": "./imgs/moon1.jpg"
